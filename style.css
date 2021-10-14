@@ -1,0 +1,36 @@
+img {
+  height: 500px;
+}
+
+
+
+hr {
+  height: 12px;
+  background-color: black;
+  border:none;
+  width: 100px;
+}
+
+
+
+
+body {
+  background-color:background: rgb(0,0,0);
+background: rgb(43,187,29);
+background: linear-gradient(90deg, rgba(43,187,29,1) 0%, rgba(0,212,255,1) 100%);
+  color:black;
+  text-align:center
+}
+
+
+
+
+li:hover {
+    color:fuchsia
+}
+
+
+
+li {
+    display:inline;
+}
